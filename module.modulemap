@@ -1,0 +1,5 @@
+module CPoco [system] {
+	header "/usr/include/Poco/Timestamp.h"
+	link "PocoFoundation"
+	export *
+}
